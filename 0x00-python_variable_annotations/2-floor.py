@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-""" make float number is floor """
+""" convert float number to integer number """
 
 
-def floor(n: float) -> float:
-    """function floor takes a float n and returns the floor of the float"""
+def floor(n: float) -> int:
+    """function floor takes a float n and returns the int of number"""
     return int(n)
